@@ -31,25 +31,6 @@ Este projeto consiste na criação e gerenciamento de um banco de dados utilizan
 
 ---
 
-## Configuração do Projeto ⚙️
-
-Para rodar o projeto, siga as etapas abaixo:
-
-1. **Configuração do Banco de Dados**:
-   - Crie o banco de dados OracleSQL utilizando o script `create_db.sql` fornecido.
-   - Execute os scripts de criação de tabelas e inserção de dados iniciais.
-
-2. **Configuração da Aplicação Java**:
-   - Certifique-se de ter o JDK instalado.
-   - Configure a conexão com o banco de dados no arquivo `dbconfig.properties`:
-     ```properties
-     db.url=jdbc:oracle:thin:@localhost:1521:xe
-     db.username=seu_usuario
-     db.password=sua_senha
-     ```
-   - Compile e execute a aplicação Java.
-
----
 
 ## Estrutura do Projeto 📁
 
@@ -60,4 +41,8 @@ Para rodar o projeto, siga as etapas abaixo:
 
 ---
 
-Este projeto foi desenvolvido como parte do curso de Banco de Dados, visando a aplicação prática dos conceitos aprendidos em sala de aula e a integração de tecnologias modernas para a solução de problemas reais.
+![image](https://github.com/user-attachments/assets/2111098d-b6a4-4acf-8a1f-af7b53fff37d)
+
+![image](https://github.com/user-attachments/assets/a7aac6d8-3025-4c0d-8678-5cdec1a7eecf)
+
+
