@@ -17,7 +17,7 @@ Este projeto consiste na criação e gerenciamento de um banco de dados utilizan
 
 ## Links
 - **Modelo Conceitual**: [Diagrama ER no Figma](https://www.figma.com/design/Ir8V7KPSws9gH2ncECyi20/Global-Solution-FIGMA?node-id=0-1&t=lP467r4AvsqUzDdJ-1)
-- **Documentação do Projeto**: [Miro Board](https://miro.com/welcomeonboard/V2NOUThhVkZWb3F5YVhPcHlKZ1lEYjMxdVF6bzBFbDJDL21wdE5OcFAzb1M4SSt1cm5uNTFldGI2SE1tZGo2ZFNMbTZIcUx0ZzBwdGlWemtQSjNVamVTblNRd0hWWWw2clpGd0Rwd0JXMmQ0S1RHelhxMHZ2VUZwdHFUWWJuTGwhZQ==?share_link_id=468499909302)
+- **Documentação do Projeto**: [Miro Board](https://miro.com/app/board/uXjVLHL8-v4=/?share_link_id=73493550302)
 - **Apresentação do Projeto**: [Vídeo no YouTube](https://www.youtube.com/watch?v=8bzh6oU2oPI)
 - **Demonstração da Aplicação**: [Vídeo de Demonstração](https://youtu.be/RvuU1Ag9UnY)
 
